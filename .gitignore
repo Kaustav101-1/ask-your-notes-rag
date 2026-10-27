@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Local vector database (rebuilt with --rebuild)
+chroma_2000/
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
