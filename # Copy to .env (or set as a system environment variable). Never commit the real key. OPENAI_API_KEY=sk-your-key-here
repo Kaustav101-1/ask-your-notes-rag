@@ -1,0 +1,2 @@
+# Copy to .env (or set as a system environment variable). Never commit the real key.
+OPENAI_API_KEY=sk-your-key-here
